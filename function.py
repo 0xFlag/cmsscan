@@ -1,8 +1,10 @@
 import json
 import re
+import hashlib
+import requests
+import warnings
 import urllib.request
-import hashlib,requests
-
+warnings.filterwarnings('ignore')
 
 class function:
 
