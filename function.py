@@ -1,7 +1,7 @@
 import json
 import re
 import urllib.request
-import hashlib
+import hashlib,requests
 
 
 class function:
@@ -9,7 +9,7 @@ class function:
     @staticmethod
     def md5(str):
         hl = hashlib.md5()
-        hl.update(str.encode("utf-8"))
+        hl.update(str)
         return hl.hexdigest()
 
     @staticmethod
@@ -41,6 +41,10 @@ class function:
 
     @staticmethod
     def checkRule(rule, header, response, domain):
+        headers={
+'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0'
+}
+
         if rule['key'] == "body":
             return function.match(rule['value'], response)
         elif rule['key'] == "header":
@@ -50,7 +54,9 @@ class function:
             if rule['function'] == "body":
                 return function.match(rule['function_value'], newResponse["body"])
             elif rule['function'] == "md5":
-                return function.checkMd5(newResponse["body"], rule['function_value'])
+                url = domain + rule['value']
+                r = requests.get(url=url, headers=headers,verify=False)
+                return function.checkMd5(r.content, rule['function_value'])
             else:
                 return False
 
