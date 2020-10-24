@@ -2,7 +2,8 @@
     "cms_name":"phpcms",
     "rules":
         [
-            {"key":"uri","value":"/statics/images/zt.jpg","function":"md5","function_value":"68402a2577c8f816c4a1ede629cd7bee"}
+            {"key":"uri","value":"/statics/images/zt.jpg","function":"md5","function_value":"68402a2577c8f816c4a1ede629cd7bee"},
+            {"key":"uri","value":"/phpcms/libs/data/font/Vineta.ttf","function":"md5","function_value":"e6e557bad69b09533827d9652e0c11ab"}
         ],
     "version":[
     ]
