@@ -1,0 +1,13 @@
+{
+    "cms_name":"BEESCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/template/images/login_title.gif","function":"md5","function_value":"24f6ae88c72035f42eda5794edc6203f"},
+            {"key":"uri","value":"/ckeditor/contents.css","function":"md5","function_value":"4fe76ebc3e34ec87eb67207f04b70e87"},
+            {"key":"uri","value":"/robots.txt","function":"md5","function_value":"fc76a80a5c88d524252ca991367ed89f"},
+            {"key":"uri","value":"/template/default/search.html","function":"md5","function_value":"43c63112849ea093257e79b3b41b219e"},
+            {"key":"uri","value":"/template/default/tpl_info.gif","function":"md5","function_value":"342ce44d2d38646e9bb08d3b3d3a9c34"}
+        ],
+    "version":[
+    ]
+}
