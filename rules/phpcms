@@ -1,0 +1,9 @@
+{
+    "cms_name":"phpcms",
+    "rules":
+        [
+            {"key":"uri","value":"/statics/images/zt.jpg","function":"md5","function_value":"7a4d2affad876a982d988c8c1d1cd730"}
+        ],
+    "version":[
+    ]
+}

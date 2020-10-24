@@ -1,0 +1,12 @@
+{
+    "cms_name":"discuz",
+    "rules":
+        [
+            {"key":"body","value":"meta name=\"generator\" content=\"Discuz"},
+            {"key":"body","value":"Powered by <strong><a href=\"http://www.discuz.net\" target=\"_blank\">Discuz!"}
+        ],
+    "version":[
+        {"key":"body","value":"<meta name=\"generator\" content=\"Discuz! X?([\\d.]+)"},
+        {"key":"body","value":"Powered by <strong><a href=\"http://www.discuz.net\" target=\"_blank\">Discuz!</a></strong> <em>X?([\\d.]+)"}
+    ]
+}

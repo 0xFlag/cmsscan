@@ -1,0 +1,13 @@
+{
+    "cms_name":"ThinkPHP",
+    "rules":
+        [
+            {"key":"header","value":"ThinkPHP"},
+            {"key":"body","value":"{ Fast & Simple OOP PHP Framework } -- [ WE CAN DO IT JUST THINK ]"},
+            {"key":"uri","value":"/xxx/xx1","function":"body","function_value":"e=\"think\\\\exception\\\\HttpException\">HttpException</abbr> in <"},
+            {"key":"uri","value":"/xxx/xx2","function":"body","function_value":"{ Fast & Simple OOP PHP Framework } -- [ WE CAN DO IT JUST THINK ]"},
+            {"key":"uri","value":"/?c=4e5e5d7364f443e28fbf0d3ae744a59a","function":"md5","function_value":"6d0f2370dcf4c94a8909ef2712dc350e"}
+        ],
+    "version":[
+    ]
+}

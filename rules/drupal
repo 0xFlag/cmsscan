@@ -1,0 +1,13 @@
+{
+    "cms_name":"drupal",
+    "rules":
+        [
+            {"key":"body","value":"<meta name=\"Generator\" content=\"Drupal"},
+            {"key":"body","value":"Drupal.settings,"},
+            {"key":"body","value":"drupal.js"},
+            {"key":"header","value":"X-Drupal-Cache-Tags"},
+            {"key":"header","value":"X-Drupal-Cache"}
+        ],
+    "version":[
+    ]
+}

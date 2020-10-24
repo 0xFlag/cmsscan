@@ -1,0 +1,15 @@
+{
+    "cms_name":"WordPress",
+    "rules":
+        [
+            {"key":"body","value":"<a href=\"https://wordpress.org/\">Powered by WordPress</a>"},
+            {"key":"body","value":"wp-content"},
+            {"key":"header","value":"<{{http}}://{{host}}/wp-json/>; rel=\"https://api.w.org/\""},
+            {"key":"uri","value":"/wp-login.php","function":"body","function_value":"Powered by WordPress"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"2fd7df8ff213e7a1584568d193277464"}
+        ],
+    "version":[
+        {"key":"body","value":"<meta name=\"generator\" content=\"WordPress ([\\d.]+)\""},
+        {"key":"uri","value":"/readme.html","function":"body","function_value":"<h1.*WordPress.*Version ([\\w.]+).*<\/h1>"}
+    ]
+}

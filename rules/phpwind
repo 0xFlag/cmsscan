@@ -1,0 +1,12 @@
+{
+    "cms_name":"phpwind",
+    "rules":
+        [
+            {"key":"body","value":"<meta name=\"generator\" content=\"phpwind"},
+            {"key":"body","value":"Powered by <a href=\"http://www.phpwind.net/\" target=\"_blank\" rel=\"nofollow\">phpwind"}
+        ],
+    "version":[
+        {"key":"body","value":"<meta name=\"generator\" content=\"phpwind v([\\d.]+)"},
+        {"key":"body","value":"Powered by <a href=\"http://www.phpwind.net/\" target=\"_blank\" rel=\"nofollow\">phpwind v([\\d.]+)"}
+    ]
+}

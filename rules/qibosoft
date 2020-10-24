@@ -1,0 +1,12 @@
+{
+    "cms_name":"齐博cms",
+    "rules":
+        [
+            {"key":"body","value":"齐博CMS\" />"},
+            {"key":"body","value":"Powered by <a href=\"http://www.qibosoft.com\" target=\"_blank\">qibosoft"},
+            {"key":"body","value":"qibosoft.com\" target=\"_blank\">qibosoft"}
+        ],
+    "version":[
+        {"key":"body","value":">qibosoft V([\\d.]+)"}
+    ]
+}

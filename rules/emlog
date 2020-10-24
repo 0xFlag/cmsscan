@@ -1,0 +1,10 @@
+{
+    "cms_name":"emlog",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"013a4d41870d7df1f1abbd40e313e53e"},
+            {"key":"uri","value":"/xmlrpc.php?rsd","function":"body","function_value":"<engineLink>http://emlog.net/</engineLink>"}
+        ],
+    "version":[
+    ]
+}
