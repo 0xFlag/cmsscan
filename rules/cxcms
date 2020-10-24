@@ -1,0 +1,10 @@
+{
+    "cms_name":"CxCms",
+    "rules":
+        [
+            {"key":"uri","value":"/Info/Contents/css/article.css","function":"md5","function_value":"5da6d47b33468b652fc4176b350201cf"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"0ce60c8fab278c0e8c636f4f329f2a60"}
+        ],
+    "version":[
+    ]
+}
