@@ -1,0 +1,10 @@
+{
+    "cms_name":"Destoon",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"8375be1e87528a6e6aca699910b1cace"},
+            {"key":"uri","value":"/file/script/config.js","function":"md5","function_value":"4e3c3d65e1014c60b9163c58d6feb397"}
+        ],
+    "version":[
+    ]
+}
