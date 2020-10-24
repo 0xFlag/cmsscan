@@ -12,11 +12,11 @@ def run(url,data):
         responseArr = function.curl(url, "")
         for n in range(len(data['rules'])):
             if function.checkRule(data['rules'][n], responseArr["header"], responseArr["body"], url):
-                print('\033[43;1m--cms是: ' + data["cms_name"] + '--\033[0m')
+                print('\033[43;1m--[+] cms: ' + data["cms_name"] + '--\033[0m')
                 for j in range(len(data['version'])):
                     version = function.checkVersion(data['version'][j], responseArr["body"], url)
                     if version:
-                        print('\033[43;1m--版本是: ' + version[1] + '--\033[0m')
+                        print('\033[43;1m--[+] Version: ' + version[1] + '--\033[0m')
                         sys.exit("")
                 sys.exit("")
     except Exception as e:
