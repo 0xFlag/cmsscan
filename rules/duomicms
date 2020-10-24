@@ -1,0 +1,10 @@
+{
+    "cms_name":"DuomiCms",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"7030be07704e7ef55371f513b79a96c0"},
+            {"key":"uri","value":"/duomiui/default/images/play.jpg","function":"md5","function_value":"5f0c30ba1fcc6c7bb7704892c420825d"}
+        ],
+    "version":[
+    ]
+}
