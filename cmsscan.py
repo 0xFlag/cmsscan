@@ -4,8 +4,10 @@ import re
 import math
 import json
 import argparse
+import warnings
 from function import function
 from concurrent.futures import ThreadPoolExecutor
+warnings.filterwarnings('ignore')
 
 def run(url,data):
     try:
@@ -20,7 +22,8 @@ def run(url,data):
                         sys.exit("")
                 sys.exit("")
     except Exception as e:
-        print(e)
+        pass
+        #print(e)
 
 def main():
     parser = argparse.ArgumentParser()
