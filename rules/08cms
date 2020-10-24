@@ -1,0 +1,16 @@
+{
+    "cms_name":"08cms",
+    "rules":
+        [
+            {"key":"uri","value":"/images/admina/arrow.jpg","function":"md5","function_value":"4d31afa41252d32d8a9aefe04796eb4e"},
+            {"key":"uri","value":"/images/admina/arrow.jpg","function":"md5","function_value":"6ad561345b55814902d014707015cf72"},
+            {"key":"uri","value":"/images/admina/logo.png","function":"md5","function_value":"413946cd43e990aa551335198ae5b631"},
+            {"key":"uri","value":"/images/admina/logo.png","function":"md5","function_value":"db113c0f641da45947a371c4b7e1d280"},
+            {"key":"uri","value":"/images/admina/sitmap0.png","function":"md5","function_value":"71cc4f949f5a50008048e8943c985c0e"},
+            {"key":"uri","value":"/images/admina/sitmap0.png","function":"md5","function_value":"e0c4b6301b769d596d183fa9688b002a"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"bd9ba6e30eeb9f1e23ea0705bcbb9c6f"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"08CMS"}
+        ],
+    "version":[
+    ]
+}
