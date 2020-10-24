@@ -1,0 +1,10 @@
+{
+    "cms_name":"Dswjcms",
+    "rules":
+        [
+            {"key":"uri","value":"/public/img/feature-sprites.png","function":"md5","function_value":"5aa84c21fc9169a6dd90ed103902666b"},
+            {"key":"uri","value":"/public/img/mark-icons-color16.png","function":"md5","function_value":"5cc0b0b1262ee07bdd7e9f4dc167500c"}
+        ],
+    "version":[
+    ]
+}
