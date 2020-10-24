@@ -1,0 +1,11 @@
+{
+    "cms_name":"AppCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/templates/default/css/img/index/bg-skirt.gif","function":"md5","function_value":"62029ccf4af64fda36a380c334ee2a3c"},
+            {"key":"uri","value":"/templates/default/css/img/index/bg-topic-special.png","function":"md5","function_value":"a5b8c5f135daba35c26ef18b8920993f"},
+            {"key":"uri","value":"/templates/default/css/img/stars.gif","function":"md5","function_value":"1d0c675c0c08249f75a6ce7984f96470"}
+        ],
+    "version":[
+    ]
+}
