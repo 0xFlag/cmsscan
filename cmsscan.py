@@ -34,7 +34,7 @@ def main():
         url = args.url
         if not re.match(r'http[s]?://', url):
             sys.exit("输入的URL格式不正确,URL例子:https://www.example.com")
-    
+
         with ThreadPoolExecutor(max_workers=100) as pool:
             website = function.matchWebsite(url)
             files = os.listdir("./rules")
