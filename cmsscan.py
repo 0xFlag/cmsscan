@@ -3,6 +3,7 @@ import sys
 import re
 import math
 import json
+import argparse
 from function import function
 from concurrent.futures import ThreadPoolExecutor
 
@@ -22,16 +23,23 @@ def run(url,data):
         print(e)
 
 def main():
-    url = input("请输入URL:")
-    if not re.match(r'http[s]?://', url):
-        sys.exit("输入的URL格式不正确,URL例子:https://www.example.com")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-u', '--url', help='url')
+    args = parser.parse_args()
+
+    if args.url:
+        url = args.url
+        if not re.match(r'http[s]?://', url):
+            sys.exit("输入的URL格式不正确,URL例子:https://www.example.com")
     
-    with ThreadPoolExecutor(max_workers=100) as pool:
-        website = function.matchWebsite(url)
-        files = os.listdir("./rules")
-        for x in range(len(files)):
-            data = json.loads(open("./rules/" + files[x]).read().replace("{{http}}", website['scheme']).replace("{{host}}",website['host']))
-            pool.submit(run, url,data)
+        with ThreadPoolExecutor(max_workers=100) as pool:
+            website = function.matchWebsite(url)
+            files = os.listdir("./rules")
+            for x in range(len(files)):
+                data = json.loads(open("./rules/" + files[x]).read().replace("{{http}}", website['scheme']).replace("{{host}}",website['host']))
+                pool.submit(run, url,data)
+    else:
+        print(parser.format_help().lower())
 
 if __name__ == "__main__":
     main()
