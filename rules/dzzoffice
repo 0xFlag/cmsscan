@@ -1,0 +1,16 @@
+{
+    "cms_name":"DzzOffice",
+    "rules":
+        [
+            {"key":"body","value":"<meta name=\"generator\" content=\"DzzOffice"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"5f8ca227b92f482430e36f46cc5c066d"},
+            {"key":"uri","value":"/static/image/common/logo.png","function":"md5","function_value":"32e7c62513b7cdb8d5917e00c4c2146b"},
+            {"key":"uri","value":"/crossdomain.xml","function":"md5","function_value":"abc7d7eb5a87be161e7a45d8ad082eb4"},
+            {"key":"uri","value":"/htaccess_default.txt","function":"md5","function_value":"6957f913315ace6d783bfc75cabeae4d"},
+            {"key":"uri","value":"/install/images/logo.png","function":"md5","function_value":"2052fa74d6a2fe7db86fbfb5c995651d"},
+            {"key":"uri","value":"/install/images/error.png","function":"md5","function_value":"feabf4e4c8e20dc73548dfd6ba8400f9"}
+        ],
+    "version":[
+            {"key":"body","value":"Powered By <a href=\"http://www.dzzoffice.com\" target=\"_blank\">DzzOffice</a> ([\\d.]+)"}
+    ]
+}
