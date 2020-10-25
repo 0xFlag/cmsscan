@@ -1,0 +1,21 @@
+{
+    "cms_name":"EMLOG",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/views/style/green/style.css","function":"md5","function_value":"4d50eee0c43bc7d1ac708c5622d5b481"},
+            {"key":"uri","value":"/admin/views/images/login_logo.png","function":"md5","function_value":"30f23137659a1d7aec7c60c9197ab185"},
+            {"key":"uri","value":"/admin/views/default/main.css","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/admin/views/style/default/style.css","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/admin/views/style/green/style.css","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/content/cache/blogger","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/content/cache/links","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/content/cache/options","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/content/templates/default/main.css","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/content/templates/default/tpl.ini","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/wlwmanifest.xml","function":"body","function_value":"emlog"},
+            {"key":"uri","value":"/xmlrpc.php?rsd","function":"body","function_value":"<engineLink>http://emlog.net/</engineLink>"}
+        ],
+    "version":[
+    ]
+}
