@@ -1,0 +1,10 @@
+{
+    "cms_name":"5uCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/images/style.css","function":"md5","function_value":"1f77c198658bcaf9f0df8279b3bc5418"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"5ucms"}
+        ],
+    "version":[
+    ]
+}
