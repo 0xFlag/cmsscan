@@ -1,0 +1,9 @@
+{
+    "cms_name":"DataLifeEngine",
+    "rules":
+        [
+            {"key":"uri","value":"/templates/Default/js/libs.js","function":"md5","function_value":"b36c54dfe8803903b3b51f9ee1561f60"}
+        ],
+    "version":[
+    ]
+}
