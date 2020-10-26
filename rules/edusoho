@@ -1,0 +1,15 @@
+{
+    "cms_name":"EduSoho",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"176FFC2DBE45896DA9FDB56F0B121DA3"},
+            {"key":"uri","value":"/assets/v2/img/icon_search.png","function":"md5","function_value":"7C11FA98074F1300D9997EE8DF7A0271"},
+            {"key":"uri","value":"/robots.txt","function":"md5","function_value":"E29377BFDE24121305EA6E086E301314"},
+            {"key":"uri","value":"/assets/libs/seajs-global-config.js","function":"body","function_value":"edusoho"},
+            {"key":"uri","value":"/crossdomain.xml","function":"body","function_value":"edusoho"}
+        ],
+    "version":[
+            {"key":"body","value":"Powered by <a href=\"http://www.edusoho.com/\" target=\"_blank\">EduSoho v([\\d.]+)"},
+            {"key":"body","value":"Powered by<a href=\"http://ct.edusoho.com/\" target=\"_blank\"> EduSoho 企培版v([\\d.]+)"}
+    ]
+}
