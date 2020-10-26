@@ -1,0 +1,14 @@
+{
+    "cms_name":"6KBBS",
+    "rules":
+        [
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"6kbbs"},
+            {"key":"body","value":"<meta name=\"copyright\" content=\"2003-2010 6KBBS"},
+            {"key":"uri","value":"/images/group/0.gif","function":"md5","function_value":"762e9249fffb8d4b8c2bf9af5f5143ed"},
+            {"key":"uri","value":"/admin/images/bg_login.gif","function":"md5","function_value":"8d0f49c11aae2c0228249b98267f970a"}
+        ],
+    "version":[
+            {"key":"body","value":"Powered by <a href=\"http://www.6kbbs.com\" target=\"_blank\">6kbbs V([\\d.]+)"},
+            {"key":"uri","value":"/admin/login.php","function":"body","function_value":"Powered by <a href=\"http://www.6kbbs.com\" target=\"_blank\">6kbbs V([\\d.]+)"}
+    ]
+}
