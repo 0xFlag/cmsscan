@@ -1,0 +1,15 @@
+{
+    "cms_name":"B2Bbuilder",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"05b54c4fff0791bbc052ec474bc11878"},
+            {"key":"uri","value":"/image/admin/logo.png","function":"md5","function_value":"8f7ddcaae3df2fd91d2dd9e7c6c43d14"},
+            {"key":"uri","value":"/404.php","function":"md5","function_value":"FBD6B44D5BC052D0151BFE1DD6E95B87"},
+            {"key":"uri","value":"/install/images/logo.gif","function":"md5","function_value":"C991DCBBA14EDF3AD78854A2106967B9"},
+            {"key":"uri","value":"/install/images/ok.jpg","function":"md5","function_value":"F5FF73BD5B40F65E48DAB3BCB47CA72D"}
+        ],
+    "version":[
+            {"key":"body","value":"Powered by <a href=\"http://www.b2b-builder.com\">B2Bbuilder_v([\\d.]+)</a>"},
+            {"key":"body","value":"Powered by <a href=\"#\">B2Bbuilder_v([\\d.]+)</a>"}
+    ]
+}
