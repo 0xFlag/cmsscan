@@ -1,0 +1,12 @@
+{
+    "cms_name":"HituxCMS",
+    "rules":
+        [
+            {"key":"body","value":"HituxCMS"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"edcb1f686ece5dd73a1dbaa0f8d73260"},
+            {"key":"uri","value":"/images/cms_logo.png","function":"md5","function_value":"55b95cb8f6f03223a348952eb199da5a"},
+            {"key":"uri","value":"/images/loading.gif","function":"md5","function_value":"a7e213ef4cda2be82b5fcd210463da55"}
+        ],
+    "version":[
+    ]
+}
