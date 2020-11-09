@@ -1,0 +1,22 @@
+{
+    "cms_name":"OurPHP",
+    "rules":
+        [
+            {"key":"body","value":"ourphp"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"4ac0e2c352bd9dcbd812ac7c7565a473"},
+            {"key":"uri","value":"/function/uploadfile/ourphp888/logo.png","function":"md5","function_value":"d637fbb255c613e3744cb3070cb9e9f4"},
+            {"key":"uri","value":"/function/uploadfile/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/templates/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/templates/404.html","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/data/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/api/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/backup/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/class/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/font/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/ourphp/index.htm","function":"body","function_value":"ourphp"},
+            {"key":"uri","value":"/function/plugs/index.htm","function":"body","function_value":"ourphp"}
+        ],
+    "version":[
+    ]
+}
