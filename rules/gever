@@ -1,0 +1,9 @@
+{
+    "cms_name":"Gever",
+    "rules":
+        [
+            {"key":"uri","value":"/resource/dgzc/webroot/css/index_V2.css","function":"md5","function_value":"05f90919a36d4bf88f77d9b678a60091"}
+        ],
+    "version":[
+    ]
+}
