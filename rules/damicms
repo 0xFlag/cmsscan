@@ -1,0 +1,14 @@
+{
+    "cms_name":"DamiCMS",
+    "rules":
+        [
+            {"key":"body","value":"damicms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"93daf50db030ec096c153ad60a860ed9"},
+            {"key":"uri","value":"/Core/logo.png","function":"md5","function_value":"894e8e22a139e3f9175b6acace62d9c9"},
+            {"key":"uri","value":"/install/images/top-logo.png","function":"md5","function_value":"f2ab26ed316255e00594fa261037dc7e"},
+            {"key":"uri","value":"/install/images/top-bg.png","function":"md5","function_value":"ebd2b92c9ba3be0e2a7e9c47557f4b14"},
+            {"key":"uri","value":"/Public/image/ly_dg.png","function":"md5","function_value":"5f9ae0d1a0a440a0649e52b97acd2053"}
+        ],
+    "version":[
+    ]
+}
