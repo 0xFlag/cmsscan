@@ -1,0 +1,11 @@
+{
+    "cms_name":"iDVR",
+    "rules":
+        [
+            {"key":"body","value":"idvr"},
+            {"key":"uri","value":"/ui/idvr.png","function":"md5","function_value":"ec9a2dc0acbda63e6bb35fd77b4edc78"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"3dd2ff59ad660edc40fcd41eaf275490"}
+        ],
+    "version":[
+    ]
+}
