@@ -1,0 +1,14 @@
+{
+    "cms_name":"Epoint",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"ce332cd82f549e945f2eab503df30c22"},
+            {"key":"uri","value":"/eweb/Template/Default/images/dian.jpg","function":"md5","function_value":"7119d5e5f8c86076a4b4319188a5536e"},
+            {"key":"uri","value":"/eweb/Template/Default/images/logo_01.png","function":"md5","function_value":"5d4a4b7a8c9c373b53bf5760da2ef33c"},
+            {"key":"uri","value":"/eweb/Template/Default/images/pic_epoint_small.png","function":"md5","function_value":"bfe010b4985078f5bc583d53744c084f"},
+            {"key":"uri","value":"/eweb/Template/Default/images/pic_epoint.png","function":"md5","function_value":"032f43ccd4bafd049bc3c0592d6cf07f"},
+            {"key":"uri","value":"/epointbigfileupload/version.txt","function":"body","function_value":"EpointBigFileUpLoad"}
+        ],
+    "version":[
+    ]
+}
