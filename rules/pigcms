@@ -1,0 +1,11 @@
+{
+    "cms_name":"PigCms",
+    "rules":
+        [
+            {"key":"header","value":"PigCms.com"},
+            {"key":"uri","value":"/tpl/home/pigcms/common/js/page.js","function":"md5","function_value":"e8322fde1ae0c9edd44cdb29578d863f"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"0d8383ca160bc27f7d2a876b0c575f3c"}
+        ],
+    "version":[
+    ]
+}
