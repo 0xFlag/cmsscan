@@ -1,0 +1,22 @@
+{
+    "cms_name":"FengCms",
+    "rules":
+        [
+            {"key":"body","value":"meta name=\"keywords\" content=\"FengCms"},
+            {"key":"body","value":"meta name=\"description\" content=\"FengCms"},
+            {"key":"uri","value":"/image/logo.png","function":"md5","function_value":"BA194D27D589F4E87CBBA9528CC339C0"},
+            {"key":"uri","value":"/image/go_top.png","function":"md5","function_value":"DFA433073F462C4DD670C38862BC6430"},
+            {"key":"uri","value":"/admin/image/login_box.jpg","function":"md5","function_value":"F9F6FE156F14962F24437793C1B3AEBA"},
+            {"key":"uri","value":"/admin/image/long_bg.png","function":"md5","function_value":"773D7A641E25EA31D2AC7B9911FD91EA"},
+            {"key":"uri","value":"/admin/image/menu_h4.png","function":"md5","function_value":"81581584356AC7242B5DD9A22A8DB88B"},
+            {"key":"uri","value":"/admin/image/logo_2.png","function":"md5","function_value":"BA194D27D589F4E87CBBA9528CC339C0"},
+            {"key":"uri","value":"/admin/image/duihao.png","function":"md5","function_value":"25220906FCBD90650EC10629FF4533DD"},
+            {"key":"uri","value":"/admin/image/top_link.png","function":"md5","function_value":"E282E05F7A3A5CEFED14FA5AAE74A686"},
+            {"key":"uri","value":"/admin/image/logo.png","function":"md5","function_value":"5FC9797B06098D8D4EB2465AD78B4D42"},
+            {"key":"uri","value":"/admin/image/left_top_logo.png","function":"md5","function_value":"8782802026337A4E5D082D84920BC515"},
+            {"key":"uri","value":"/install/images/anzhuang.png","function":"md5","function_value":"9F32FB0555133DFECE40C5E415272384"},
+            {"key":"uri","value":"/install/images/sub.png","function":"md5","function_value":"C2C709E36C54150D00EE822C78EE54DB"}
+        ],
+    "version":[
+    ]
+}
