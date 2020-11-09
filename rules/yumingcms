@@ -1,0 +1,11 @@
+{
+    "cms_name":"YuMingCMS",
+    "rules":
+        [
+            {"key":"body","value":"yumingcms"},
+            {"key":"uri","value":"/admin/images/logo.jpg","function":"md5","function_value":"dca458ff2de9cd12aad32b3393cc1afd"},
+            {"key":"uri","value":"/admin/images/turn.png","function":"md5","function_value":"8f37da5e34aef0c7d8b44d533d812d18"}
+        ],
+    "version":[
+    ]
+}
