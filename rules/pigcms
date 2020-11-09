@@ -1,9 +1,0 @@
-{
-    "cms_name":"pigcms",
-    "rules":
-        [
-            {"key":"header","value":"PigCms.com"}
-        ],
-    "version":[
-    ]
-}
