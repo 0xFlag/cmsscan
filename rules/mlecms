@@ -1,0 +1,19 @@
+{
+    "cms_name":"MLECMS",
+    "rules":
+        [
+            {"key":"body","value":"mlecms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"7d1ef8f5478fc951725b8858c371517b"},
+            {"key":"uri","value":"/inc/templates/manage/images/login_submit.png","function":"md5","function_value":"5e617db6684cbd7ceebdeadc42e3513e"},
+            {"key":"uri","value":"/inc/images/logo.png","function":"md5","function_value":"c6b49af9c35ed00f408ea3910b6a2bfb"},
+            {"key":"uri","value":"/inc/images/watermark.png","function":"md5","function_value":"f6b6fae641cc90a8d54b2cb2c9296104"},
+            {"key":"uri","value":"/inc/tools/iepngfix/blank.gif","function":"md5","function_value":"56398e76be6355ad5999b262208a17c9"},
+            {"key":"uri","value":"/inc/images/404.jpg","function":"md5","function_value":"0c5c7c08e25fb511c0d284bbd81f9e4c"},
+            {"key":"uri","value":"/inc/images/logo.gif","function":"md5","function_value":"8440ee8b6c2019f490a022888ff2ce50"},
+            {"key":"uri","value":"/inc/templates/manage/images/loading.gif","function":"md5","function_value":"50c5e3e79b276c92df6cc52caeb464f0"},
+            {"key":"uri","value":"/inc/templates/manage/images/logo.png","function":"md5","function_value":"19b6b7d0222f8f1f7fbbde78a641d16c"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"mlecms"}
+        ],
+    "version":[
+    ]
+}
