@@ -1,0 +1,10 @@
+{
+    "cms_name":"GentleCMS",
+    "rules":
+        [
+            {"key":"body","value":"gentleCMS"},
+            {"key":"uri","value":"/gentleCMS/resources/cms/login/logo-01.gif","function":"md5","function_value":"6f8a260004ec4f56fcad508e78bf6da0"}
+        ],
+    "version":[
+    ]
+}
