@@ -1,0 +1,19 @@
+{
+    "cms_name":"PbootCMS",
+    "rules":
+        [
+            {"key":"body","value":"pbootcms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"1096c7c8536df645a6112547889d0f5f"},
+            {"key":"uri","value":"/apps/admin/view/default/images/bg.jpg","function":"md5","function_value":"7015893384af6b27cc4f7cb41e15af13"},
+            {"key":"uri","value":"/apps/admin/view/default/images/logo.png","function":"md5","function_value":"40f77c2238861315116a3b890d822fc9"},
+            {"key":"uri","value":"/rewrite/nginx.txt","function":"body","function_value":"pbootcms"},
+            {"key":"uri","value":"/doc/ChangeLog.txt","function":"body","function_value":"pbootcms"},
+            {"key":"uri","value":"/admin.php","function":"body","function_value":"pbootcms"},
+            {"key":"uri","value":"/core/template/face01.png","function":"md5","function_value":"756e70a7c14df79cd77024bcfe52e113"},
+            {"key":"uri","value":"/core/template/face02.png","function":"md5","function_value":"b78571fc93670e5a066255a583f0a915"},
+            {"key":"uri","value":"/static/images/logo.png","function":"md5","function_value":"40f77c2238861315116a3b890d822fc9"},
+            {"key":"uri","value":"/static/images/nopic.png","function":"md5","function_value":"f128800bfcf8328787040996617c7a5f"}
+        ],
+    "version":[
+    ]
+}
