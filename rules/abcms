@@ -2,7 +2,6 @@
     "cms_name":"ABCMS",
     "rules":
         [
-            {"key":"body","value":"abcms"},
             {"key":"uri","value":"/install/images/00.png","function":"md5","function_value":"1513efc63c01b27ec75402e4b0d3b95f"},
             {"key":"uri","value":"/install/images/bg.jpg","function":"md5","function_value":"706ad09cc7f33b3f1fff5779ce832b36"},
             {"key":"uri","value":"/images-global/zoom/zoom-caption-fill.png","function":"md5","function_value":"30622d7dfb42b9e1d0e78b1fdd9340ce"},
