@@ -1,0 +1,16 @@
+{
+    "cms_name":"ABCMS",
+    "rules":
+        [
+            {"key":"body","value":"abcms"},
+            {"key":"uri","value":"/install/images/00.png","function":"md5","function_value":"1513efc63c01b27ec75402e4b0d3b95f"},
+            {"key":"uri","value":"/install/images/bg.jpg","function":"md5","function_value":"706ad09cc7f33b3f1fff5779ce832b36"},
+            {"key":"uri","value":"/images-global/zoom/zoom-caption-fill.png","function":"md5","function_value":"30622d7dfb42b9e1d0e78b1fdd9340ce"},
+            {"key":"uri","value":"/templates/images/Alogo.ico","function":"md5","function_value":"8331df7e57513acd89c4a8abe8bd2ae7"},
+            {"key":"uri","value":"/templates/images/bg.png","function":"md5","function_value":"2f75b10705aad28238d8b8fbd8e89eef"},
+            {"key":"uri","value":"/templates/Alogo.ico","function":"md5","function_value":"8331df7e57513acd89c4a8abe8bd2ae7"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"abcms"}
+        ],
+    "version":[
+    ]
+}
