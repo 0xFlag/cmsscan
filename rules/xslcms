@@ -1,0 +1,10 @@
+{
+    "cms_name":"XSLCMS",
+    "rules":
+        [
+            {"key":"body","value":"xslcms"},
+            {"key":"uri","value":"/images/ico-logo.ico","function":"md5","function_value":"87a48b1cdb17e2e2eeced9e5658087fc"}
+        ],
+    "version":[
+    ]
+}
