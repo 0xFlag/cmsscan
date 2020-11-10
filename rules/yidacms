@@ -1,0 +1,17 @@
+{
+    "cms_name":"YidaCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"7567e5ad322f27c0509e62bc701662a4"},
+            {"key":"uri","value":"/admin/images/logo.png","function":"md5","function_value":"e431c90559a0a1d0840152b6ba059ec9"},
+            {"key":"uri","value":"/admin/images/loginlogo.png","function":"md5","function_value":"bd7c9dc5114cb7aab8008cb3bf3e826a"},
+            {"key":"uri","value":"/admin/images/bg_login.gif","function":"md5","function_value":"d3af6beed6f4c5941d8474d8c30de6ab"},
+            {"key":"uri","value":"/images/yi.png","function":"md5","function_value":"1823e40d01d729c176f185315b5e48f2"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"yidacms"},
+            {"key":"uri","value":"/cache/yidacms.text","function":"body","function_value":"yidacms"},
+            {"key":"uri","value":"/install/images/01.gif","function":"md5","function_value":"f16ba5ed4148367712a62f934ee32363"},
+            {"key":"uri","value":"/uploadimg/2013261732410.png","function":"md5","function_value":"e431c90559a0a1d0840152b6ba059ec9"}
+        ],
+    "version":[
+    ]
+}
