@@ -1,0 +1,19 @@
+{
+    "cms_name":"SHLCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"d5bb00993027e53e5eedcb8a972250fa"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"SHLCMS"},
+            {"key":"uri","value":"/setup/images/header.jpg","function":"md5","function_value":"f7be1204c970a0b96c8f0e77eac4eb40"},
+            {"key":"uri","value":"/inc/img/nopic.jpg","function":"md5","function_value":"615ad5d48da8ed2814f2b896977148d5"},
+            {"key":"uri","value":"/inc/img/login/top.png","function":"md5","function_value":"c7090290405337827406a0cb2337c2b4"},
+            {"key":"uri","value":"/inc/img/comment/logo.png","function":"md5","function_value":"beadd3da4e23b6ac68dcb939ca20e73b"},
+            {"key":"uri","value":"/inc/img/admin/banner1.jpg","function":"md5","function_value":"27af1a0748979411c6673646c0b3e396"},
+            {"key":"uri","value":"/inc/img/admin/banner2.jpg","function":"md5","function_value":"2165c55d5a2fd9c5c733c6e2ad742180"},
+            {"key":"uri","value":"/inc/img/admin/banner3.jpg","function":"md5","function_value":"100fe18444d580868c13f279d3f1d2cb"},
+            {"key":"uri","value":"/admini/images/dt_admini_logo.png","function":"md5","function_value":"0c3e9221235e96aafa49819e5c5d271c"},
+            {"key":"uri","value":"/admini/images/shl.jpg","function":"md5","function_value":"2b73cd623e294e95e8fbf05c0395d9a2"}
+        ],
+    "version":[
+    ]
+}
