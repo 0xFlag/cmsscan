@@ -1,0 +1,11 @@
+{
+    "cms_name":"AKCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/images/admin/logo.gif","function":"md5","function_value":"628e342ad4a1633bacd2b8515683050f"},
+            {"key":"uri","value":"/images/admin/sprites.png","function":"md5","function_value":"c134fe25ad62ebcc4aca7ca487106304"},
+            {"key":"uri","value":"/include/common.js","function":"body","function_value":"akcms"}
+        ],
+    "version":[
+    ]
+}
