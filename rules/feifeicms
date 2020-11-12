@@ -1,0 +1,14 @@
+{
+    "cms_name":"FeiFeiCms",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"72750e5edca884f6a44709df8756161b"},
+            {"key":"uri","value":"/Tpl/default/Images/v_playBtn.png","function":"md5","function_value":"828e555a9c0fded6039a9d82c9a62dc3"},
+            {"key":"uri","value":"/Public/images/water.gif","function":"md5","function_value":"3551aebf90c015773feaef802ed15626"},
+            {"key":"uri","value":"/Public/images/admin/bg.gif","function":"md5","function_value":"eec554048e90135111c489e8ef3c8ff2"},
+            {"key":"uri","value":"/Public/js/admin.js","function":"body","function_value":"feifeicms"},
+            {"key":"uri","value":"/Public/js/system.js","function":"body","function_value":"feifeicms"}
+        ],
+    "version":[
+    ]
+}
