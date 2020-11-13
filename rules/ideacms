@@ -1,0 +1,16 @@
+{
+    "cms_name":"IdeaCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/images/logo.png","function":"md5","function_value":"d410f4fc740ca64fec8ac8ce71039c11"},
+            {"key":"uri","value":"/inc/image/logo.png","function":"md5","function_value":"eae004a9df9e459705ef4bdad61bbd3d"},
+            {"key":"uri","value":"/template/skin6/cn/images/logo.png","function":"md5","function_value":"eae004a9df9e459705ef4bdad61bbd3d"},
+            {"key":"uri","value":"/admin/images/Main.css","function":"body","function_value":"ideacms"},
+            {"key":"uri","value":"/admin/images/Style.css","function":"body","function_value":"ideacms"},
+            {"key":"uri","value":"/template/skin6/config.xml","function":"body","function_value":"ideacms"},
+            {"key":"uri","value":"/template/skin6/cn/css/Style.css","function":"body","function_value":"ideacms"},
+            {"key":"uri","value":"/template/skin2017/config.xml","function":"body","function_value":"ideacms"}
+        ],
+    "version":[
+    ]
+}
