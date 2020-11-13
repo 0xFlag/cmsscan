@@ -1,0 +1,12 @@
+{
+    "cms_name":"DirCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"4d6a81d084319c3e131cc9f3a5878912"},
+            {"key":"uri","value":"/config/watermark/default.png","function":"md5","function_value":"55e636a4877c371c8638455e29b5697c"},
+            {"key":"uri","value":"/static/assets/logo.png","function":"md5","function_value":"a5e33f6b8582d701805cf8021699be49dfb655d2"},
+            {"key":"uri","value":"/static/assets/logo-web.png","function":"md5","function_value":"1bf8b74d7caecae56e3461124e1e31cf"}
+        ],
+    "version":[
+    ]
+}
