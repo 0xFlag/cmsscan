@@ -1,0 +1,14 @@
+{
+    "cms_name":"NiubiCMS",
+    "rules":
+        [
+            {"key":"body","value":"niubicms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"00a3cade4cba1b69dc913e330d528af3"},
+            {"key":"uri","value":"/admin/template/images/login.png","function":"md5","function_value":"8d06f66ba7cbe1ae5279f07ed95fe56b"},
+            {"key":"uri","value":"/admin/template/images/logo.png","function":"md5","function_value":"7acb576d752abdb1718b47bf5788306d"},
+            {"key":"uri","value":"/admin/template/images/powered.gif","function":"md5","function_value":"f84202183fbfd79a37c23d5e321d9bf3"},
+            {"key":"uri","value":"/install/template/images/logo.png","function":"md5","function_value":"71a30be83ec963c41959e6d545a096db"}
+        ],
+    "version":[
+    ]
+}
