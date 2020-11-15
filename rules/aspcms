@@ -1,0 +1,18 @@
+{
+    "cms_name":"ASPCMS",
+    "rules":
+        [
+            {"key":"body","value":"aspcms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"36e61f6f043459c522c6374310d4a4e0"},
+            {"key":"uri","value":"/admin_aspcms/images/admin_tlogo.jpg","function":"md5","function_value":"f2daf0c85a8b24dcb0581926dc584357"},
+            {"key":"uri","value":"/admin_aspcms/images/logo_user.jpg","function":"md5","function_value":"7a87d1453175cea4989fcfbf85b65511"},
+            {"key":"uri","value":"/admin_aspcms/images/logo_01.gif","function":"md5","function_value":"5939f529ac3b63f8f71210e705163254"},
+            {"key":"uri","value":"/admin_aspcms/images/tcstyle1.jpg","function":"md5","function_value":"1c862744bcf2645b9e54fd00ad3a5653"},
+            {"key":"uri","value":"/admin_aspcms/images/login_13.png","function":"md5","function_value":"d73a6dcddf5248c9d837987e6b6fd942"},
+            {"key":"uri","value":"/images/logo.jpg","function":"md5","function_value":"f6275d7c585a37a40faacf67d278e35d"},
+            {"key":"uri","value":"/images/nopic.gif","function":"md5","function_value":"2dbba9c07dbe3bc91faa4d8764445884"},
+            {"key":"uri","value":"/admin_aspcms/images/login_submit.gif","function":"md5","function_value":"73cc56d4cacb739c61516e0a0c1f5ec3"}
+        ],
+    "version":[
+    ]
+}
