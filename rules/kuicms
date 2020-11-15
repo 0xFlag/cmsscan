@@ -1,0 +1,15 @@
+{
+    "cms_name":"Kuicms",
+    "rules":
+        [
+            {"key":"body","value":"kuicms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"205d1da6839ff42dee550cd24b323bb1"},
+            {"key":"uri","value":"/upfile/pc.png","function":"md5","function_value":"645da7da9cf7b5f9662009331e83e724"},
+            {"key":"uri","value":"/upfile/mobile.png","function":"md5","function_value":"23a896c75a6bc5c63d279a8e4fd8651a"},
+            {"key":"uri","value":"/theme/default/theme.jpg","function":"md5","function_value":"991de6bea55408d0621197ac8dbf55de"},
+            {"key":"uri","value":"/theme/default/images/logo.png","function":"md5","function_value":"c6f0c3a816e1ea2dce708cfb5e23ace0"},
+            {"key":"uri","value":"/install/images/logo.png","function":"md5","function_value":"77507045dc96eff6402b136c7f9e153e"}
+        ],
+    "version":[
+    ]
+}

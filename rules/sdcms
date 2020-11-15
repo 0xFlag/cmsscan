@@ -1,0 +1,31 @@
+{
+    "cms_name":"SDCMS",
+    "rules":
+        [
+            {"key":"body","value":"sdcms"},
+            {"key":"uri","value":"/theme/default/images/nopic.jpg","function":"md5","function_value":"f4cff081914a18a5988a6d69da409d20"},
+            {"key":"uri","value":"/theme/default/images/nophoto.jpg","function":"md5","function_value":"259c5d70700278b5aed1216025fe8a8f"},
+            {"key":"uri","value":"/theme/default/images/bg_foot.gif","function":"md5","function_value":"8f5bf255511c9c902c3de92f85e38c07"},
+            {"key":"uri","value":"/theme/default/images/bg_head.jpg","function":"md5","function_value":"999ae96220d8acec68b2ffdde0880806"},
+            {"key":"uri","value":"/theme/default/images/dotnum.gif","function":"md5","function_value":"d10f7931a8306a296eac56bb3d50776e"},
+            {"key":"uri","value":"/theme/default/images/downpic.gif","function":"md5","function_value":"9df39c0f45fbafe90eb7dec1f3557198"},
+            {"key":"uri","value":"/theme/default/images/logo.gif","function":"md5","function_value":"d535f2edf34bc2d2705c236dfea92969"},
+            {"key":"uri","value":"/theme/default/images/logo_bg.gif","function":"md5","function_value":"a61b747f0d6a46547788b5a10a171d89"},
+            {"key":"uri","value":"/theme/default/images/nodown.gif","function":"md5","function_value":"0e09a6889fbe6b074e8da2a8f5c5d777"},
+            {"key":"uri","value":"/theme/default/images/nodown_big.gif","function":"md5","function_value":"7c3784b5d11408fe5d44c344aa98f27f"},
+            {"key":"uri","value":"/theme/default/images/steptab.png","function":"md5","function_value":"71de17808a4461ea3ed2332ec0f0334c"},
+            {"key":"uri","value":"/theme/default/config.xml","function":"body","function_value":"sdcms"},
+            {"key":"uri","value":"/lib/images/strength.gif","function":"md5","function_value":"c7dd6ca4e53a37d70794384239b41e5d"},
+            {"key":"uri","value":"/theme/admin/images/logo.gif","function":"md5","function_value":"4d2dfdb04a4998a1fc56bc33289cbc65"},
+            {"key":"uri","value":"/theme/admin/images/logo_login.gif","function":"md5","function_value":"25837a58005c81f1f775d9512ac5bc2b"},
+            {"key":"uri","value":"/theme/admin/images/upload.gif","function":"md5","function_value":"5032b5d60b095c684fc777d7c202855e"},
+            {"key":"uri","value":"/theme/admin/images/start.gif","function":"md5","function_value":"765924d693b63c1cdba23ce5f5241523"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"46783e0094710a14aa5dc8dd57ebbafc"},
+            {"key":"uri","value":"/upfile/logo.gif","function":"md5","function_value":"46783e0094710a14aa5dc8dd57ebbafc"},
+            {"key":"uri","value":"/upfile/mobile.png","function":"md5","function_value":"83309f0e265affaadde4a7d5272479a6"},
+            {"key":"uri","value":"/upfile/pc.png","function":"md5","function_value":"3b068c0d401544df5e1767671e9cfd7a"},
+            {"key":"uri","value":"/install/images/logo.png","function":"md5","function_value":"3b068c0d401544df5e1767671e9cfd7a"}
+        ],
+    "version":[
+    ]
+}
