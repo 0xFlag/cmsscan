@@ -1,0 +1,11 @@
+{
+    "cms_name":"iPowerCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/m/_/images/logo.jpg","function":"md5","function_value":"f157c480a95417343ba4be6fe3f6f56d"},
+            {"key":"uri","value":"/m/_/images/login/bg.jpg","function":"md5","function_value":"b059df525219f408c1d3d539ec96901e"},
+            {"key":"uri","value":"/m/_/images/login/inbox_bg.jpg","function":"md5","function_value":"f1a656eab14b94089721a27c1205fda0"}
+        ],
+    "version":[
+    ]
+}
