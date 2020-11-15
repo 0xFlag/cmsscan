@@ -1,0 +1,21 @@
+{
+    "cms_name":"MaxCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/imgs/logo.jpg","function":"md5","function_value":"9a51e044a54d86a3fc7ef78222a04d7d"},
+            {"key":"uri","value":"/admin/imgs/login_03.jpg","function":"md5","function_value":"545476a44e872a2385ecf875f6dd642d"},
+            {"key":"uri","value":"/admin/imgs/login_04.jpg","function":"md5","function_value":"11dc36fb422f2efc491c9ea31a04b054"},
+            {"key":"uri","value":"/admin/imgs/btn_block.png","function":"md5","function_value":"ab9f30b402126947280603f50b66b352"},
+            {"key":"uri","value":"/comment/images/bg.gif","function":"md5","function_value":"eeaca84dd212a388a06bbb4d2a63da68"},
+            {"key":"uri","value":"/pic/logo.png","function":"md5","function_value":"3432ae6376228d64ec8942e8385a0844"},
+            {"key":"uri","value":"/template/blank/images/455-60.jpg","function":"md5","function_value":"686f6134016d9f5549193bda714d14db"},
+            {"key":"uri","value":"/template/blank/images/696-90.jpg","function":"md5","function_value":"0b338ac7f06c5fbff4a7ae9b6fa4c8c2"},
+            {"key":"uri","value":"/template/blank/images/950-90.jpg","function":"md5","function_value":"713cd6c3896094c0136c5a70c7a410e7"},
+            {"key":"uri","value":"/template/blank/images/960-90.jpg","function":"md5","function_value":"5866fc84dbdcd69f02b8cb08c4424063"},
+            {"key":"uri","value":"/template/default/images/logo.jpg","function":"md5","function_value":"8ebbf5412be80a72d27cf98fea15d2ca"},
+            {"key":"uri","value":"/template/default/images/index_97.jpg","function":"md5","function_value":"56619378c2a998e08978279b812fa26c"},
+            {"key":"uri","value":"/template/default/images/f4.gif","function":"md5","function_value":"08d43a9b62241c60ed0a8b952316d0fa"}
+        ],
+    "version":[
+    ]
+}
