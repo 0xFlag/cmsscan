@@ -1,0 +1,22 @@
+{
+    "cms_name":"YzmCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"24da79175c3b9f011d8eef6a8339c044"},
+            {"key":"uri","value":"/admin/index/login.html","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/common/static/admin/yzm_admin/images/favicon.ico","function":"md5","function_value":"24da79175c3b9f011d8eef6a8339c044"},
+            {"key":"uri","value":"/common/data/water/mark.png","function":"md5","function_value":"03fac6e7dc3738eb7611281673515e71"},
+            {"key":"uri","value":"/common/static/admin/yzm_admin/images/loading.gif","function":"md5","function_value":"2299ad0b3f63413f026dfec20c205b8f"},
+            {"key":"uri","value":"/common/static/admin/yzm_admin/images/login_bg.jpg","function":"md5","function_value":"94031dffd40fb137caaa8672e6684884"},
+            {"key":"uri","value":"/common/static/admin/yzm_admin/css/login.css","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/common/static/admin/yzm_admin/css/yzm.admin.login.css","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/common/static/css/yzm-style.css","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/common/static/css/yzm-common.css","function":"body","function_value":"yzmcms"},
+            {"key":"uri","value":"/common/static/images/logo.png","function":"md5","function_value":"7a2f37a8426cb533de5c6cc8ba858ae7"},
+            {"key":"uri","value":"/common/static/images/icon.png","function":"md5","function_value":"2ac61544b9bfac5ab7fc0e39dd342e52"}
+        ],
+    "version":[
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"YzmCMS v([\\d.]+)"}
+    ]
+}
