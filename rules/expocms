@@ -1,0 +1,17 @@
+{
+    "cms_name":"ExpoCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/expocms.txt","function":"body","function_value":"expocms"},
+            {"key":"uri","value":"/Admin/Images/expo.jpg","function":"md5","function_value":"b943ab0d4343444559caef2859d08a98"},
+            {"key":"uri","value":"/Admin/Images/expo2.jpg","function":"md5","function_value":"56093ada2e7cf9c040a9950bc1b67aa8"},
+            {"key":"uri","value":"/Admin/Images/da_bg.jpg","function":"md5","function_value":"14fd0c784bb8e7a7793f85dfd18c136a"},
+            {"key":"uri","value":"/Admin/Images/Loading.jpg","function":"md5","function_value":"1b19ec07ef94a2bc265b34bd3ca098ee"},
+            {"key":"uri","value":"/images/banner.jpg","function":"md5","function_value":"a35711eac3d35b0db1b882cea24efc58"},
+            {"key":"uri","value":"/images/datebg.gif","function":"md5","function_value":"7f365d44f90a81d1ebbef6049aa4aceb"},
+            {"key":"uri","value":"/images/logo.jpg","function":"md5","function_value":"18c125818331bc983388be9a634f8335"},
+            {"key":"uri","value":"/images/searchbg.gif","function":"md5","function_value":"ccf65f6f3fe34a7a3c0d89d4b4306614"}
+        ],
+    "version":[
+    ]
+}
