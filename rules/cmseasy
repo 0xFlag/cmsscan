@@ -1,0 +1,21 @@
+{
+    "cms_name":"CmsEasy",
+    "rules":
+        [
+            {"key":"body","value":"cmseasy"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"31761de2a64d7c62838534fe1c5022b8"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"1d3b0614059f6a05c7c382e5a0646237"},
+            {"key":"uri","value":"/images/headimagehref.jpg","function":"md5","function_value":"3561e5b33a58922af93c29e9254de29e"},
+            {"key":"uri","value":"/images/logo.png","function":"md5","function_value":"9f5c5ad0c20eaa52c23920b6686f7a1a"},
+            {"key":"uri","value":"/images/logo_wap.png","function":"md5","function_value":"ea7df0f2227edaf63758210bea2041a1"},
+            {"key":"uri","value":"/common/dialog/modal-gloss.png","function":"md5","function_value":"14ac18a2f0348c88734800f89bba0fdc"},
+            {"key":"uri","value":"/template_admin/admin/skin/images/logo-install.png","function":"md5","function_value":"e3604e5c63a0dd4245853426275ab7f0"},
+            {"key":"uri","value":"/template_admin/admin/skin/images/logo-login.png","function":"md5","function_value":"d9e16366344be16f8400d0b5ca5c94aa"},
+            {"key":"uri","value":"/template_admin/admin/skin/images/go_1.gif","function":"md5","function_value":"fc8d765545ece26259a4312784584997"},
+            {"key":"uri","value":"/template/wap/skin/images/about_bg.jpg","function":"md5","function_value":"ea6b6e4dbc7c3c078f73beaf77f21c2d"},
+            {"key":"uri","value":"/data/subscriptionmail.txt","function":"body","function_value":"guest1287821510"},
+            {"key":"uri","value":"/sitemap/index_cn.html","function":"body","function_value":"cmseasy"}
+        ],
+    "version":[
+    ]
+}
