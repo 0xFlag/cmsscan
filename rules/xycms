@@ -1,0 +1,14 @@
+{
+    "cms_name":"XYCMS",
+    "rules":
+        [
+            {"key":"uri","value":"/admin/images/top_tt_bg.gif","function":"md5","function_value":"371736e0e9c0cca936982da3465301e0"},
+            {"key":"uri","value":"/admin/images/log.png","function":"md5","function_value":"0592b023bac2acba12c893194a3802bd"},
+            {"key":"uri","value":"/admin/images/main_logo.png","function":"md5","function_value":"59672449ded22b27b8942f8132222381"},
+            {"key":"uri","value":"/admin/images/i_logo.gif","function":"md5","function_value":"70ccdb2c3cd63d49df5deb368f0d7033"},
+            {"key":"uri","value":"/admin/images/main_32.gif","function":"md5","function_value":"9fd24d28f8e8678b85397c0347fe55c3"},
+            {"key":"uri","value":"/admin/images/main_12.gif","function":"md5","function_value":"ba0970a555ae8a9d9cbb1556150b3398"}
+        ],
+    "version":[
+    ]
+}
