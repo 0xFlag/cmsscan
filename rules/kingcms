@@ -1,0 +1,21 @@
+{
+    "cms_name":"KingCMS",
+    "rules":
+        [
+            {"key":"body","value":"meta name=\"generator\" content=\"kingcms"},
+            {"key":"uri","value":"/readme.txt","function":"body","function_value":"kingcms"},
+            {"key":"uri","value":"/license.txt","function":"body","function_value":"kingcms"},
+            {"key":"uri","value":"/images/style.css","function":"body","function_value":"kingcms"},
+            {"key":"uri","value":"/system/js/jquery.kc.js","function":"body","function_value":"kingcms"},
+            {"key":"uri","value":"/dbquery/language/zh-cn.xml","function":"body","function_value":"kingcms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"d1b1b27e11885a8ec0f1d942f6c81a8c"},
+            {"key":"uri","value":"/images/logo.gif","function":"md5","function_value":"fb8ade8433ea0b79e7d017aacdfde33c"},
+            {"key":"uri","value":"/images/water.png","function":"md5","function_value":"5b0b902a3c8e5203327148fd855d926a"},
+            {"key":"uri","value":"/install/images/logo.png","function":"md5","function_value":"3ef5d80bb4a33f15c0d8b33b8b31eed2"},
+            {"key":"uri","value":"/user/images/login_logo.jpg","function":"md5","function_value":"01b7c0c8be4fb792635f54db541aa7a2"},
+            {"key":"uri","value":"/user/images/login_banner.jpg","function":"md5","function_value":"d64d7e2cd9b6fff5075daf8de76b8288"},
+            {"key":"uri","value":"/images/logo.png","function":"md5","function_value":"5d341f4f03aff5421b0b5bd4ebc82400"}
+        ],
+    "version":[
+    ]
+}
