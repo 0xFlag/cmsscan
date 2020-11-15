@@ -1,0 +1,21 @@
+{
+    "cms_name":"ECShop",
+    "rules":
+        [
+            {"key":"body","value":"<meta name=\"Generator\" content=\"ECSHOP"},
+            {"key":"body","value":"3366FF\">ECShop</span>"},
+            {"key":"uri","value":"/alipay.html","function":"body","function_value":"ecshop"},
+            {"key":"uri","value":"/js/transport.js","function":"body","function_value":"ecshop"},
+            {"key":"uri","value":"/admin/js/validator.js","function":"body","function_value":"ecshop"},
+            {"key":"uri","value":"/themes/default/style.css","function":"body","function_value":"ecshop"},
+            {"key":"uri","value":"/admin/templates/about_us.htm","function":"body","function_value":"ecshop"},
+            {"key":"uri","value":"/animated_favicon.gif","function":"md5","function_value":"08ac7633a6446e6d868b588b415466f6"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"428b23df874b41d904bbae29057bdba5"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"16e8e4fa70a5412e41388eb0fe983eb2"},
+            {"key":"uri","value":"/widget/images/thumbnail.jpg","function":"md5","function_value":"7bb50e4281fa02758834a2e9d7ba9fb9"},
+            {"key":"uri","value":"/admin/ecshopfiles.md5","function":"md5","function_value":"6d7db29a9ae1c60a48b9817ce6caad8b"}
+        ],
+    "version":[
+        {"key":"body","value":"<meta name=\"Generator\" content=\"ECSHOP v([\\d.]+)"}
+    ]
+}
