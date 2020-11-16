@@ -1,0 +1,27 @@
+{
+    "cms_name":"ZoomlaCMS",
+    "rules":
+        [
+            {"key":"body","value":"zoomla"},
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/help.html","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/js/JQueryAjax.js","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/Config/Protocol.txt","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/Plugins/Markdown/example.txt","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/Template/V4/style/global.css","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/Template/V5/style/global.css","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/theme/css/V4.css","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/theme/css/v4style.css","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/theme/css/V4user.css","function":"body","function_value":"zoomla"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"d36c4978af05ab95f3579762e08abdfe"},
+            {"key":"uri","value":"/images/menubg.gif","function":"md5","function_value":"dfe3b174acebed6ef8f3de3b637d30be"},
+            {"key":"uri","value":"/images/nopic.gif","function":"md5","function_value":"2de113b082280a2f560afdc6ad9ce254"},
+            {"key":"uri","value":"/images/error.png","function":"md5","function_value":"614e2a6c8c8fb7bf2ded4c28ba0c1733"},
+            {"key":"uri","value":"/images/go.png","function":"md5","function_value":"a9756b72f63f23533b235b20b4742b23"},
+            {"key":"uri","value":"/images/User/error_logo.jpg","function":"md5","function_value":"14bbb0518454986d866db60d822a65cd"},
+            {"key":"uri","value":"/UploadFiles/nopic.gif","function":"md5","function_value":"2de113b082280a2f560afdc6ad9ce254"},
+            {"key":"uri","value":"/UploadFiles/System/PWA/icon-76.png","function":"md5","function_value":"c8a12ded8526adc0b58bfa688a6e53f7"}
+        ],
+    "version":[
+    ]
+}
