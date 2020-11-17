@@ -1,0 +1,30 @@
+{
+    "cms_name":"EspCMS",
+    "rules":
+        [
+            {"key":"body","value":"espcms"},
+            {"key":"uri","value":"/adminsoft/templates/images/class_bg.jpg","function":"md5","function_value":"3f4a4d58531c5c2e7f6ed95e0f282ffb"},
+            {"key":"uri","value":"/adminsoft/templates/images/login_line.png","function":"md5","function_value":"b1e011b40783bad70cbe8e2da622d4a6"},
+            {"key":"uri","value":"/adminsoft/templates/images/login_title.png","function":"md5","function_value":"e7a30897caa1e2a9d22dc17910768fe9"},
+            {"key":"uri","value":"/adminsoft/templates/images/login_logo.jpg","function":"md5","function_value":"10e0166d3a57f45b5da85b7a878b23a1"},
+            {"key":"uri","value":"/adminsoft/templates/images/icon_24.gif","function":"md5","function_value":"d1f7d61ffeb82073e8880d1fb43192c2"},
+            {"key":"uri","value":"/espcms_admin/espcms_admin_templates/images/login_bg_top.jpg","function":"md5","function_value":"342081c0a3439646cb9dd36ab010f8bb"},
+            {"key":"uri","value":"/espcms_admin/espcms_admin_templates/images/login_logo.png","function":"md5","function_value":"c470ca3fa5701b07d14415ef41f94afd"},
+            {"key":"uri","value":"/espcms_admin/espcms_admin_templates/images/login_title.png","function":"md5","function_value":"8a4b90819afb961f9bee082888d1a0de"},
+            {"key":"uri","value":"/espcms_admin/espcms_admin_templates/images/logo.png","function":"md5","function_value":"56883628ec5114139e23ea972d3a5887"},
+            {"key":"uri","value":"/espcms_admin/espcms_admin_templates/images/favicon.ico","function":"md5","function_value":"4c1bd9830b0a3c9603ef99f4fedb422d"},
+            {"key":"uri","value":"/espcms_includes/favicon.ico","function":"md5","function_value":"4c1bd9830b0a3c9603ef99f4fedb422d"},
+            {"key":"uri","value":"/espcms_install/templates/images/login_bg_top.jpg","function":"md5","function_value":"342081c0a3439646cb9dd36ab010f8bb"},
+            {"key":"uri","value":"/espcms_install/templates/images/logo.png","function":"md5","function_value":"c470ca3fa5701b07d14415ef41f94afd"},
+            {"key":"uri","value":"/templates/netskin/images/logo.png","function":"md5","function_value":"808946b633a416e6ccd2b2f7c6c1e522"},
+            {"key":"uri","value":"/templates/netskin/images/espcms_left_bg.jpg","function":"md5","function_value":"0c36bae9175a92150d11d7a9f2780179"},
+            {"key":"uri","value":"/templates/netskin/images/logo/4.png","function":"md5","function_value":"90ef376e9c9af5c4b07451f3a3db47d9"},
+            {"key":"uri","value":"/templates/specialty/images/logo.jpg","function":"md5","function_value":"05bf4cceee22881470ce3637c9d18db2"},
+            {"key":"uri","value":"/upfile/4.png","function":"md5","function_value":"90ef376e9c9af5c4b07451f3a3db47d9"},
+            {"key":"uri","value":"/upfile/espcms_16.png","function":"md5","function_value":"52505df360ad925d16009e528cd11ecc"},
+            {"key":"uri","value":"/upfile/espcms_32.png","function":"md5","function_value":"461763084417e4a588d8182c4b6b6382"},
+            {"key":"uri","value":"/upfile/espcms_64.png","function":"md5","function_value":"6af72bf95b28b99eff2d7c6ed37b1fb1"}
+        ],
+    "version":[
+    ]
+}
