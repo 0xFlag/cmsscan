@@ -1,0 +1,17 @@
+{
+    "cms_name":"RuvarHRM",
+    "rules":
+        [
+            {"key":"body","value":"ruvarhrm"},
+            {"key":"uri","value":"/RuvarHRM/script/js_window.js","function":"body","function_value":"ruvarhrm"},
+            {"key":"uri","value":"/RuvarHRM/script/layerdialog.js","function":"body","function_value":"ruvarhrm"},
+            {"key":"uri","value":"/RuvarHRM/images/logo.gif","function":"md5","function_value":"c952dc2f6134b9ef40ccf0d0a9d2f8a5"},
+            {"key":"uri","value":"/RuvarHRM/images/login_title.gif","function":"md5","function_value":"4f3ac62813564750a417a5146ac821c3"},
+            {"key":"uri","value":"/RuvarHRM/images/login-user.png","function":"md5","function_value":"875c910df6c469287610ffbb9e5768aa"},
+            {"key":"uri","value":"/RuvarHRM/images/login-banner-1.jpg","function":"md5","function_value":"9e0894749d07ca99276a5b4920e978f9"},
+            {"key":"uri","value":"/RuvarHRM/images/login-banner-2.jpg","function":"md5","function_value":"3c6ed6dc5da0de340a7c5d31f61b364e"},
+            {"key":"uri","value":"/RuvarHRM/images/login-banner-3.jpg","function":"md5","function_value":"7c8ccb1399def7a4e8187a56e43da99b"}
+        ],
+    "version":[
+    ]
+}
