@@ -1,0 +1,19 @@
+{
+    "cms_name":"EyouCMS",
+    "rules":
+        [
+            {"key":"body","value":"eyoucms"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"2078a69bf68e43b1a9b3ea4caa01cdeb"},
+            {"key":"uri","value":"/public/stati/admin/images/admin-icon.png","function":"md5","function_value":"cfeb3a6081a2204b4bd7b8c8c5bbb94f"},
+            {"key":"uri","value":"/public/stati/admin/images/login-bg.jpg","function":"md5","function_value":"58fab4dc165a69f694befc1e0b8b3e7c"},
+            {"key":"uri","value":"/public/stati/admin/images/logo.png","function":"md5","function_value":"bf532e780d8b21e0c4b088ede39c73f7"},
+            {"key":"uri","value":"/public/stati/admin/images/logo_ey.png","function":"md5","function_value":"f3fb3a4de65e8413edc02a95205ce4a2"},
+            {"key":"uri","value":"/public/static/admin/logo/logo.png","function":"md5","function_value":"bf532e780d8b21e0c4b088ede39c73f7"},
+            {"key":"uri","value":"/public/static/admin/logo/logo_ey.png","function":"md5","function_value":"f3fb3a4de65e8413edc02a95205ce4a2"},
+            {"key":"uri","value":"/public/static/errpage/error_pic.png","function":"md5","function_value":"3d02879b1593b4b9da8a7f63612915b1"},
+            {"key":"uri","value":"/public/static/errpage/404.png","function":"md5","function_value":"651ed472439a3f5dee4ec0dc4e305fa4"}
+        ],
+    "version":[
+            {"key":"uri","value":"/data/conf/version.txt","function":"body","function_value":"v([\\d.]+)"}
+    ]
+}
