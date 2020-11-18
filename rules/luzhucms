@@ -1,0 +1,14 @@
+{
+    "cms_name":"luzhucms",
+    "rules":
+        [
+            {"key":"uri","value":"/adminimages/title.GIF","function":"md5","function_value":"bc600cd4f47851fce38beb4b38c81f2d"},
+            {"key":"uri","value":"/images/logo.gif","function":"md5","function_value":"092ee38d423e21a6d53ab06f0300de23"},
+            {"key":"uri","value":"/images/top.jpg","function":"md5","function_value":"2f3499f1ad4321b051faf6efb8831e8d"},
+            {"key":"uri","value":"/images/bg1.gif","function":"md5","function_value":"8dfe3b7bf5d8c1469eaa9e43e31aa74b"},
+            {"key":"uri","value":"/images/lzbg3.gif","function":"md5","function_value":"64812b37f5d865623eba5c9cd2fe415b"},
+            {"key":"uri","value":"/rewrite/luzhu.css","function":"body","function_value":"luzhucss"}
+        ],
+    "version":[
+    ]
+}
