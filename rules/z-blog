@@ -1,0 +1,23 @@
+{
+    "cms_name":"Z-Blog",
+    "rules":
+        [
+            {"key":"header","value":"z-blog"},
+            {"key":"body","value":"meta name=\"generator\" content=\"z-blog"},
+            {"key":"uri","value":"/readme.txt","function":"body","function_value":"z-blog"},
+            {"key":"uri","value":"/readme.txt","function":"body","function_value":"zblog"},
+            {"key":"uri","value":"/zb_system/script/common.js","function":"body","function_value":"z-blog"},
+            {"key":"uri","value":"/zb_system/defend/thanks.html","function":"body","function_value":"z-blogphp"},
+            {"key":"uri","value":"/zb_users/theme/default/theme.xml","function":"body","function_value":"z-blog"},
+            {"key":"uri","value":"/zb_system/image/logo/zblog.gif","function":"md5","function_value":"713af4bfe64830026e89fe57d22db3bd"},
+            {"key":"uri","value":"/zb_system/image/admin/install.png","function":"md5","function_value":"cee5f32c0b2c986953692b312fb64ba1"},
+            {"key":"uri","value":"/zb_system/image/admin/install.png","function":"md5","function_value":"a662578978c04155b2cd3ca7135c1c45"},
+            {"key":"uri","value":"/zb_system/image/admin/logo.png","function":"md5","function_value":"e7684af8a6edf77f21c8677e37bd7243"},
+            {"key":"uri","value":"/zb_system/image/admin/logo.png","function":"md5","function_value":"6ad7fb3ff6b9a357741638f08d520f16"},
+            {"key":"uri","value":"/zb_system/image/admin/logo-16.png","function":"md5","function_value":"2d335badc11f0e3737d2d7dac1bb8305"},
+            {"key":"uri","value":"/zb_system/image/filetype/zba.png","function":"md5","function_value":"1335c12ad778352c35f6236dcf581df9"}
+        ],
+    "version":[
+            {"key":"body","value":"<meta name=\"generator\" content=\"Z-BlogPHP ([\\d.]+)"}
+    ]
+}
