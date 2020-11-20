@@ -1,0 +1,22 @@
+{
+    "cms_name":"LebiShop",
+    "rules":
+        [
+            {"key":"body","value":"lebishop"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"bc8578af4978042a6b6aad2a8d59b30e"},
+            {"key":"uri","value":"/theme/system/systempage/admin/images/login/main.jpg","function":"md5","function_value":"3df825cbf1b5be301ca076da83133b8e"},
+            {"key":"uri","value":"/theme/system/systempage/admin2/assets/images/lebi.gif","function":"md5","function_value":"a902de5f27428354aa34b40faad6cb05"},
+            {"key":"uri","value":"/theme/system/systempage/admin2/assets/images/logo.gif","function":"md5","function_value":"c4739bcfdf5ca27f4debac7c56074b56"},
+            {"key":"uri","value":"/theme/system/systempage/admin2/assets/images/background/login.jpg","function":"md5","function_value":"4b64a2c6fcc8c5e7fa8daa1ae4cb6c42"},
+            {"key":"uri","value":"/theme/system/systempage/admin/images/sys_logo.jpg","function":"md5","function_value":"7e0af9661001e1f009a43b904b419e5d"},
+            {"key":"uri","value":"/theme/system/systempage/admin/images/logo.gif","function":"md5","function_value":"a902de5f27428354aa34b40faad6cb05"},
+            {"key":"uri","value":"/theme/system/systempage/admin/images/login/newlogo.png","function":"md5","function_value":"b5c8bb0bfbc9ba81232471258e60086a"},
+            {"key":"uri","value":"/theme/system/systempage/admin/images/2015/logo.gif","function":"md5","function_value":"c4739bcfdf5ca27f4debac7c56074b56"},
+            {"key":"uri","value":"/theme/system/systempage/admin2/assets/images/background/login2.jpg","function":"md5","function_value":"47919226fa7ee3be0f50a07869b05213"},
+            {"key":"uri","value":"/theme/system/systempage/supplier/images/logo.gif","function":"md5","function_value":"a902de5f27428354aa34b40faad6cb05"},
+            {"key":"uri","value":"/theme/system/systempage/supplier/images/sys_logo.jpg","function":"md5","function_value":"7e0af9661001e1f009a43b904b419e5d"},
+            {"key":"uri","value":"/ajax/js.aspx","function":"body","function_value":"lebishop"}
+        ],
+    "version":[
+    ]
+}
