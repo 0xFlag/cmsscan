@@ -1,0 +1,20 @@
+{
+    "cms_name":"XpShop",
+    "rules":
+        [
+            {"key":"body","value":"xpshop"},
+            {"key":"uri","value":"/favicon.ico","function":"md5","function_value":"9162ab6f3caa3440bd3b4b485dd543a8"},
+            {"key":"uri","value":"/apps/admin/view/default/images/bg.jpg","function":"md5","function_value":"7015893384af6b27cc4f7cb41e15af13"},
+            {"key":"uri","value":"/admin/Images/logo.png","function":"md5","function_value":"b096752eb03feec2e77ff374b8271be7"},
+            {"key":"uri","value":"/admin/Images/logout.gif","function":"md5","function_value":"328667ecdd46403332175c6362fd70c3"},
+            {"key":"uri","value":"/admin/Images/logout.png","function":"md5","function_value":"7e15899fc72b357da2f66aff5710ee1f"},
+            {"key":"uri","value":"/images/admin_main_img_help.gif","function":"md5","function_value":"50aef9f10db0f8e53c0690b8716aac80"},
+            {"key":"uri","value":"/images/xpshop.gif","function":"md5","function_value":"7a5466ccd48a162f231ad02359657858"},
+            {"key":"uri","value":"/images/xpshoplogo.gif","function":"md5","function_value":"ada268a29c5a808900deda5a413315d1"},
+            {"key":"uri","value":"/admin/Images/logo.png","function":"md5","function_value":"3e26f82e910fdad5138c69aafac31290"},
+            {"key":"uri","value":"/images/logo.png","function":"md5","function_value":"36d3f72670129a101c7fb9db87e1dca5"},
+            {"key":"uri","value":"/images/main_bg.gif","function":"md5","function_value":"57218d9c0f8ce29a2cc93792d32df4f0"}
+        ],
+    "version":[
+    ]
+}
