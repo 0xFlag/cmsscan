@@ -1,0 +1,27 @@
+{
+    "cms_name":"WeCenter",
+    "rules":
+        [
+            {"key":"uri","value":"/robots.txt","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/license.txt","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/static/admin/css/login.css","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/static/css/default/common.css","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/static/css/default/green.css","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/static/css/default/orange.css","function":"body","function_value":"wecenter"},
+            {"key":"uri","value":"/static/admin/img/logo.png","function":"md5","function_value":"91b7ab33a09691c5495a5d8d13eb5b88"},
+            {"key":"uri","value":"/static/admin/img/wecenter-logo.png","function":"md5","function_value":"20a82575e7206bba0fc399e1ef9bfd71"},
+            {"key":"uri","value":"/static/common/404.jpg","function":"md5","function_value":"9187a669cdea97a22fb5b6512058657b"},
+            {"key":"uri","value":"/static/common/weixin_default_cover.png","function":"md5","function_value":"836bff8c868b99bf86f274a99dbf4bca"},
+            {"key":"uri","value":"/static/common/weixin_default_image.png","function":"md5","function_value":"3a866471d5f0f78171970a4694dcb125"},
+            {"key":"uri","value":"/static/css/default/img/favicon.ico","function":"md5","function_value":"4651387685310be962e47877d2fada72"},
+            {"key":"uri","value":"/static/css/default/img/login_bg.jpg","function":"md5","function_value":"6910fce321afd3b2a285f44f80b915a9"},
+            {"key":"uri","value":"/static/css/default/img/login_logo.png","function":"md5","function_value":"91d611fce03b0fd28df76325a46c3563"},
+            {"key":"uri","value":"/static/css/default/img/logo.png","function":"md5","function_value":"e26042f0d6dbc5d2da0cc2e09bca49ed"},
+            {"key":"uri","value":"/static/css/default/img/logo@2x.png","function":"md5","function_value":"4e6200cc9652eecd89c9f6ee53135be1"},
+            {"key":"uri","value":"/static/h5/img/login-logo.png","function":"md5","function_value":"1421377ee8025a09520a64a68656212d"},
+            {"key":"uri","value":"/static/h5/img/logo.png","function":"md5","function_value":"6d8819d0cbc739387e3a4f7772cc947c"},
+            {"key":"uri","value":"/static/h5/img/my_bg.png","function":"md5","function_value":"fcf25db08a1dc87840dd17abe9be5584"}
+        ],
+    "version":[
+    ]
+}
