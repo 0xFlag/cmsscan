@@ -1,0 +1,32 @@
+{
+    "cms_name":"PowerEasy",
+    "rules":
+        [
+            {"key":"uri","value":"/License.txt","function":"body","function_value":"powereasy"},
+            {"key":"uri","value":"/Admin/Images/Admin_Login1_0_04.gif","function":"md5","function_value":"9d109a47b204ecb9100e55cb61acf5fb"},
+            {"key":"uri","value":"/Admin/Images/Admin_Login1_0_05.gif","function":"md5","function_value":"cb899c5518e447e27b50bb548f3eb589"},
+            {"key":"uri","value":"/Admin/Images/Admin_Login1_0_06.gif","function":"md5","function_value":"95ee75a2a8e4fd9bbd93d324c9c25df7"},
+            {"key":"uri","value":"/Admin/Images/Admin_Login1_0_10.gif","function":"md5","function_value":"cc5ba1972f91f3d9b53b8d5151a3b9e1"},
+            {"key":"uri","value":"/Admin/Images/adminmain01.gif","function":"md5","function_value":"2840e7cfd5ca643fbba1b0159f4b92b0"},
+            {"key":"uri","value":"/Admin/Images/adminmain02.gif","function":"md5","function_value":"a1bc76db3c2545c6df64deb76b1a8e65"},
+            {"key":"uri","value":"/Admin/Images/main_photo_1.jpg","function":"md5","function_value":"a141d2e01171fe51c1c7d21295616b30"},
+            {"key":"uri","value":"/Count/Image/powereasyimg.gif","function":"md5","function_value":"41c9bc7f3f78ed71115cc062c1c67b09"},
+            {"key":"uri","value":"/Images/Admin_Login2.gif","function":"md5","function_value":"5451dab7bcc96b99842ff5f5dda7da54"},
+            {"key":"uri","value":"/Images/banner.jpg","function":"md5","function_value":"2cfac34d79fc8dc581a85b47e4ab3ce3"},
+            {"key":"uri","value":"/Images/logo.gif","function":"md5","function_value":"82ef9863074fdb4a10bf4dda46a551c9"},
+            {"key":"uri","value":"/Images/logo_blue.gif","function":"md5","function_value":"9894185e4a2e38d60b37463b602c01f1"},
+            {"key":"uri","value":"/Skin/blue/banner_p5.gif","function":"md5","function_value":"60a06c21db93ee62c825538a3fbe9c01"},
+            {"key":"uri","value":"/Skin/blue/powerease_logo.gif","function":"md5","function_value":"eb57cf68aa6c83e1e61d6ffed3027fc6"},
+            {"key":"uri","value":"/Skin/Elegance/logo.gif","function":"md5","function_value":"36e9ffa605a4a47b25c7017d78984148"},
+            {"key":"uri","value":"/Skin/Elegance/powerease_logo.gif","function":"md5","function_value":"2b9e72732092c61b6315f1c2b720bbc2"},
+            {"key":"uri","value":"/Skin/Ocean/top_01.jpg","function":"md5","function_value":"1c1df4f3ca2da0f9c8c1539df2031a65"},
+            {"key":"uri","value":"/Skin/sealove/AD01.gif","function":"md5","function_value":"b0cae464f37dd325d2f34b5cec0d3076"},
+            {"key":"uri","value":"/Skin/sealove/Ad03.gif","function":"md5","function_value":"40b6a89fcb3a46c6652714048276da27"},
+            {"key":"uri","value":"/Skin/sealove/PElogo_sealove.gif","function":"md5","function_value":"81626013f429c5e0dc156c8b95bf6c81"},
+            {"key":"uri","value":"/Skin/sealove/PowerEasy_TOP.gif","function":"md5","function_value":"ce7547e6aa5e57ddd1b7d75f89323cfd"},
+            {"key":"uri","value":"/Space/Template/Default.gif","function":"md5","function_value":"6017f471b1f5ba8716755c91dd7e002a"},
+            {"key":"uri","value":"/User/images/User_Login_0_04.gif","function":"md5","function_value":"5ebdffd4838570a9890b8c802041c9b2"}
+        ],
+    "version":[
+    ]
+}
